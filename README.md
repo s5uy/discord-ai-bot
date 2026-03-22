@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<
 # Discord × OpenAI bot
 
 Minimal Discord bot: slash command `/ask` sends prompts to the OpenAI API. Configuration is environment-based so you can point at OpenAI’s hosted API or any compatible endpoint via `OPENAI_BASE_URL`.
